@@ -1,5 +1,5 @@
 # Custom-HashTable
-Creating my own HashTable (Dictionary)
+Creating my own HashTable (Dictionary) and unit testing its functionalities.
 
 
 HashTable class should have the needed functionality for a hash table, such as:
